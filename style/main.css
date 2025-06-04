@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Roboto+Slab:wght@100..900&display=swap');
+
+header{
+  text-align: center;
+  margin: 20px;
+  font-size: 170%;
+  font-family: "Roboto Slab";
+
+}
+
+#head1{
+  font-family: a;
+  text-align: center;
+  margin: 30px;
+  font-size: 150%;
+
+}
+
+#nomes{
+  font-size: 38px;
+  font-family: "Allura";
+  color: #e7d8ef;
+  text-align: center;
+}
+
+.containerT1{
+  background-color: #deb6f4;
+  border-radius: 5;
+  padding: 10px;
+  text-align: center;
+}
+
+.relogio {
+  display: grid;
+  grid-template-columns: repeat(2, 120px);
+  grid-gap: 15px;
+  justify-content: center;
+  margin: 30px auto;
+}
+
+#T2{
+  font-size: 60px;
+  font-family: "Allura";
+  padding: 40px 0px 0 0px;
+  text-align: center;
+  color: #eed3fc;
+}
+
+.box {
+  background: #d8b3ec;
+  border-radius: 10px;
+  padding: 25px;
+  font-size: 1.3em;
+  box-shadow: 0 0 10px #5d1a81;
+  text-align: center;
+}
+
+.card{
+  background-color: white;
+  width: 350px;
+  height: 315px;
+  margin: auto;
+  justify-content: center;
+  box-shadow: black;
+  
+}
+
+footer{
+  color: rgba(89, 89, 89, 0.728);
+  padding: 40px;
+  text-align: center;
+}
+
+
